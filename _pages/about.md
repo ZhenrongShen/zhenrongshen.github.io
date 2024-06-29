@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Dr. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
-Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/). 
-I worked with [Prof. Jicong Zhang](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research.
+I am a Ph.D. candidate in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
+Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I worked with [Prof. Jicong Zhang (张冀聪)](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research.
 
 My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis, for the sake of smart diagnosis and prognosis, individualized therapy planning and tracking, and translational medical studies.
 During My Ph.D. studies, I have been dedicated to the research of medical image synthesis, including but not limited to lesion image synthesis, cross-modality image synthesis, anomaly detection, and super-resolution.
