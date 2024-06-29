@@ -18,25 +18,27 @@ I am passionate about pushing the boundaries of what is possible with AI4medicin
 
 News
 ------
-- (2024/06) 3 papers (2 early accepted) accepted by _MICCAI 2024_
-- (2024/05) One paper accepted by _Neural Networks_
-- (2024/04) One paper accepted by _Medical Image Analysis_
-- (2024/02) One paper accepeted by _Computers in Biology and Medicine_
-- (2024/02) One paper (oral presentation) accepted by _ISBI 2024_
-- (2024/01) One paper accepted by _Computerized Medical Imaging and Graphics_
-- (2023/08) One paper accepted by _MLMI 2023_
-- (2023/06) 6 papers (3 early accepted) accepted by _MICCAI 2023_
-- (2022/11) One paper accepted by _Medical Image Analysis_
-- (2021/07) One paper accepted by _PRCV 2021_
+- (2024/06) 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
+- (2024/05) 1 paper accepted by **_Neural Networks_**
+- (2024/04) 1 paper accepted by **_Medical Image Analysis_**
+- (2024/02) 1 paper accepeted by **_Computers in Biology and Medicine_**
+- (2024/02) 1 paper accepted by **_ISBI 2024_** (oral presentation)
+- (2024/01) 1 paper accepted by **_Computerized Medical Imaging and Graphics_**
+- (2023/08) 1 paper accepted by **_MLMI 2023_**
+- (2023/06) 6 papers (3 early accepted) accepted by **_MICCAI 2023_**
+- (2022/11) 1 paper accepted by **_Medical Image Analysis_**
+- (2021/07) 1 paper accepted by **_PRCV 2021_**
 
 
 Activities
 ------
-- Reviewer for:
+- Journal Reviewer for:
   - IEEE Transactions on Multimedia
   - Neural Networks
   - Computerized Medical Imaging and Graphics
   - Medical & Biological Engineering & Computing
+
+- Conference Reviewer for:
   - Medical Image Computing and Computer Assisted Interventions (MICCAI)
   - IEEE International Symposium on Biomedical Imaging (ISBI)
 
@@ -47,8 +49,8 @@ Activities
 Honors & Awards
 ------
 - (2023/12) Academician Yazhu Chen Scholarship, SJTU
-- (2023/07) 2nd Prize, Student Presentation Forum, 10th Medical Imaging Computing Seminar (MICS).
-- (2022/07) 3rd Prize, Student Presentation Forum, 9th Medical Imaging Computing Seminar (MICS).
+- (2023/07) 2nd Prize, Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS).
+- (2022/07) 3rd Prize, Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS).
 - (2020/12) 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling.
 - (2020/06)	Outstanding Graduate Award, BUAA.
 -	(2019/04) Meritorious Winner, MCM/ICM.
