@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Dr. Qian Wang](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
-Previously, I received my B.Eng. degree from School of [Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/). 
+I am a Ph.D. candidate in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Dr. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
+Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/). 
 I worked with [Prof. Jicong Zhang](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research.
 
 My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis, for the sake of smart diagnosis and prognosis, individualized therapy planning and tracking, and translational medical studies.
@@ -22,7 +22,7 @@ News
 - (2024/05) 1 paper accepted by **_Neural Networks_**
 - (2024/04) 1 paper accepted by **_Medical Image Analysis_**
 - (2024/02) 1 paper accepeted by **_Computers in Biology and Medicine_**
-- (2024/02) 1 paper accepted by **_ISBI 2024_** (oral presentation)
+- (2024/02) 1 paper (oral presentation) accepted by **_ISBI 2024_**
 - (2024/01) 1 paper accepted by **_Computerized Medical Imaging and Graphics_**
 - (2023/08) 1 paper accepted by **_MLMI 2023_**
 - (2023/06) 6 papers (3 early accepted) accepted by **_MICCAI 2023_**
