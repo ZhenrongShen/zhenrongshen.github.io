@@ -53,5 +53,6 @@ Honors & Awards
 - (2022/07) 3rd Prize, Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS).
 - (2020/12) 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling.
 - (2020/06)	Outstanding Graduate Award, BUAA.
+- (2020/07) 1st Prize, National Biomedical Engineering Innovation Design Competition for College Students
 -	(2019/04) Meritorious Winner, MCM/ICM.
 -	(2018/04) Meritorious Winner, MCM/ICM.
