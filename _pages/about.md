@@ -48,10 +48,10 @@ Activities
 Honors & Awards
 ------
 - (2023/12) Academician Yazhu Chen Scholarship, SJTU
-- (2023/07) 2nd Prize of Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS)
-- (2022/07) 3rd Prize of Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS)
+- (2023/07) 2nd Prize of Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS 2023)
+- (2022/07) 3rd Prize of Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
 - (2020/12) 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling
 - (2020/06)	Outstanding Graduate Award, BUAA
 - (2020/07) 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
--	(2019/04) Meritorious Winner, MCM/ICM
--	(2018/04) Meritorious Winner, MCM/ICM
+-	(2019/04) Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
+-	(2018/04) Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
