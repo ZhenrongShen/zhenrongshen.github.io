@@ -17,41 +17,41 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 
 News
 ------
-- (2024/06) 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
-- (2024/05) 1 paper accepted by **_Neural Networks_**
-- (2024/04) 1 paper accepted by **_Medical Image Analysis_**
-- (2024/02) 1 paper accepeted by **_Computers in Biology and Medicine_**
-- (2024/02) 1 paper (oral presentation) accepted by **_ISBI 2024_**
-- (2024/01) 1 paper accepted by **_Computerized Medical Imaging and Graphics_**
-- (2023/08) 1 paper accepted by **_MLMI 2023_**
-- (2023/06) 6 papers (3 early accepted) accepted by **_MICCAI 2023_**
-- (2022/11) 1 paper accepted by **_Medical Image Analysis_**
-- (2021/07) 1 paper accepted by **_PRCV 2021_**
+- \[2024/06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
+- \[2024/05\] 1 paper accepted by **_Neural Networks_**
+- \[2024/04\] 1 paper accepted by **_Medical Image Analysis_**
+- \[2024/02\] 1 paper accepeted by **_Computers in Biology and Medicine_**
+- \[2024/02\] 1 paper (oral presentation) accepted by **_ISBI 2024_**
+- \[2024/01\] 1 paper accepted by **_Computerized Medical Imaging and Graphics_**
+- \[2023/08\] 1 paper accepted by **_MLMI 2023_**
+- \[2023/06\] 6 papers (3 early accepted) accepted by **_MICCAI 2023_**
+- \[2022/11\] 1 paper accepted by **_Medical Image Analysis_**
+- \[2021/07\] 1 paper accepted by **_PRCV 2021_**
 
 
 Activities
 ------
-- Journal Reviewer for:
+- Journal Reviewer
   - IEEE Transactions on Multimedia
   - Neural Networks
   - Computerized Medical Imaging and Graphics
   - Medical & Biological Engineering & Computing
 
-- Conference Reviewer for:
+- Conference Reviewer
   - Medical Image Computing and Computer Assisted Interventions (MICCAI)
   - IEEE International Symposium on Biomedical Imaging (ISBI)
 
 - Teaching Assistant
-  - (2024 Spring) Computer Vision in Biomedical Engineering (SJTU BME7001)
+  - \[2024 Spring\] Computer Vision in Biomedical Engineering (SJTU BME7001)
 
 
 Honors & Awards
 ------
-- (2023/12) Academician Yazhu Chen Scholarship, SJTU
-- (2023/07) 2nd Prize of Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS 2023)
-- (2022/07) 3rd Prize of Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
-- (2020/12) 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling
-- (2020/06)	Outstanding Graduate Award, BUAA
-- (2020/07) 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
--	(2019/04) Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
--	(2018/04) Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
+- \[2023/12\] Academician Yazhu Chen Scholarship, SJTU
+- \[2023/07\] 2nd Prize of Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS 2023)
+- \[2022/07\] 3rd Prize of Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
+- \[2020/12\] 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling
+- \[2020/06\]	Outstanding Graduate Award, BUAA
+- \[2020/07\] 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
+-	\[2019/04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
+-	\[2018/04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
