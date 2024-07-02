@@ -27,7 +27,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 > <em>Computers in Biology and Medicine</em>, 2024 <br>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18/sup>F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept)** <br>
+> <b><a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D 18F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept)** <br>
 > Haolin Huang\*, <b>Zhenrong Shen</b>\*, Jing Wang\*, Xinyu Wang, Jiaying Lu, Huamei Lin, Jingjie Ge, Chuantao Zuo, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
