@@ -11,8 +11,7 @@ Scaling law is widely deemed as the cornerstone towards medical foundation model
 We utilize generative models to disentangle the attributes of lesions across the domains of radiology and pathology, thereby creating extensive and diverse annotated lesion data in a controllable manner.
 This not only facilitates the training of medical AI but also serves as a robustness assessment benchmark, and potentially acts as a medical education tool.
 
-## Chest X-ray Lung Nodule Synthesis for Lung Nodule Detection
-
+> ## *Chest X-ray Lung Nodule Synthesis for Lung Nodule Detection*
 > - We proposed a lung nodule synthesis framework disentangles nodule attributes (i.e., shape, size, and texture) and synthesize nodules in a controllable manner. We leveraged the controllability of the framework to design a hard example mining strategy for data augmentation on lung nodule detection.
 > ### *Relevant Publications:*
 > - <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184152200336X" target="_blank">Image Synthesis with Disentangled Attributes for Chest X-ray Nodule Augmentation and Detection</a> [MedIA'23]
@@ -20,8 +19,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 
 ![](/images/nodule_synthesis.png)
 
-## Cervical Cytological Image Synthesis for Cervical Lesion Screening
-
+> ## *Cervical Cytological Image Synthesis for Cervical Lesion Screening*
 > - We proposed CellGAN, a class-conditional GAN, to synthesize cervical cytological image patches of various cervical cell types, aimed at enhancing patch-level cervical cell classification. 
 > - We incorporated CellGAN into a knowledge distillation framework for multi-class abnormal cervical cell detection, which facilitates the class-balance pre-training of a teacher network.
 > ### *Relevant Publications:*
@@ -37,8 +35,7 @@ Multi-modal medical imaging information is the cornerstone of precision medicine
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
 The correlation established between the two modalities through this process can be also leveraged for applications such as anomaly detection and PET attenuation correction.
 
-## PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis
-
+> ## *PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic modality translation workflow to identify abnormal metabolism cues of PD in 18F-FDG PET scans.
 > ### *Relevant Publications:*
 > - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D 18F-FDG PET</a> [MICCAI'24 Early Accept]
@@ -52,7 +49,7 @@ The correlation established between the two modalities through this process can 
 Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis. 
 Some techniques represent discrete images as continuous implicit functions, which can obtain feature representations at arbitrary locations for image reconstruction.
 
-## MRI Super-resolution for Arbitrary Inter-slice Spacing Reduction
+> ## *MRI Super-resolution for Arbitrary Inter-slice Spacing Reduction*
 > - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary reduction of MR inter-slice spacing, which generates any desired in-between MR slice from hierarchical features of adjacent MR slices.
 > - We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) network, which represents an MR image as a continuous implicit function of 3D coordinates and performs arbitrary inter-slice spacing by sampling the coordinates in 3D space.
 > ### *Relevant Publications:*
