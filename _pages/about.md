@@ -15,8 +15,8 @@ During My Ph.D. studies, I have been dedicated to the research of medical image 
 I am passionate about pushing the boundaries of what is possible with AI4Medicine, believing that generative AI will reshape the landscape of medical imaging.
 
 
-News
-------
+## News
+
 - \[2024/06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
 - \[2024/05\] 1 paper accepted by **_Neural Networks_**
 - \[2024/04\] 1 paper accepted by **_Medical Image Analysis_**
@@ -29,8 +29,8 @@ News
 - \[2021/07\] 1 paper accepted by **_PRCV 2021_**
 
 
-Activities
-------
+## Activities
+
 - Journal Reviewer
   - IEEE Transactions on Multimedia
   - Neural Networks
@@ -45,8 +45,8 @@ Activities
   - \[2024 Spring\] Computer Vision in Biomedical Engineering (SJTU BME7001)
 
 
-Honors & Awards
-------
+## Honors & Awards
+
 - \[2023/12\] Academician Yazhu Chen Scholarship, SJTU
 - \[2023/07\] 2nd Prize of Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS 2023)
 - \[2022/07\] 3rd Prize of Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
