@@ -36,9 +36,9 @@ Cross-modality image synthesis can impute target modality images from source mod
 The correlation established between the two modalities through this process can be also leveraged for applications such as anomaly detection and PET attenuation correction.
 
 > ## *PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
-> - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic modality translation workflow to identify abnormal metabolism cues of PD in 18F-FDG PET scans.
+> - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic modality translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
-> - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D 18F-FDG PET</a> [MICCAI'24 Early Accept]
+> - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept]
 
 ![](/images/metaAD.png)
 
