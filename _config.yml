@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+# locale                   : "en-US"
 title                    : "Zhenrong's Homepage"
 title_separator          : "-"
 name                     : &name "Zhenrong Shen"
 description              : &description "Personal website"
-url                      : https://zhenrongshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhenrongshen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhenrongShen/zhenrongshen.github.io"
 
@@ -137,7 +137,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
