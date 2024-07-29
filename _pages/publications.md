@@ -36,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
 > <b><a href="" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
-> Dongdong, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
+> Dongdong Chen, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
 > <b><a href="https://arxiv.org/abs/2311.08236" target="_blank">Melo: Low-rank Adaptation Is Better Than Fine-tuning for Medical Image Diagnosis</a></b> [<a href="https://absterzhu.github.io/melo.github.io/" target="_blank">project</a>] [<a href="https://github.com/JamesQFreeman/LoRA-ViT" target="_blank">code</a>] **(Oral)** <br>
