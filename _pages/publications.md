@@ -90,3 +90,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-88010-1_45" target="_blank">Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection</a></b> <br>
 > <b>Zhenrong Shen</b>\*, Xi Ouyang\*, Zhuochen Wang, Yiqiang Zhan, Zhong Xue, Qian Wang, Jie-Zhi Cheng, Dinggang Shen. <br>
 > <em>Chinese Conference on Pattern Recognition and Computer Vision</em> (PRCV 2021), Beijing, China. <br>
+
+
+## Preprint
+> <b><a href="https://arxiv.org/abs/2402.14707" target="_blank">Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening</a></b> <br>
+> <b>Zhenrong Shen</b>\*, Manman Fei\*, Xin Wang, Jiangdong Cai, Sheng Wang, Lichi Zhang, Qian Wang. <br>
+
+> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> <br>
+> Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
+
+> <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> <br>
+> Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>

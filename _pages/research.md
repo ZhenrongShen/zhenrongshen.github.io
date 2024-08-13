@@ -33,10 +33,10 @@ This not only facilitates the training of medical AI but also serves as a robust
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the unavailability of some imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
-The correlation established between the two modalities through this process can be also leveraged for applications such as anomaly detection and PET attenuation correction.
+The correlation established between the two modalities can be also leveraged for applications such as anomaly detection.
 
 > ## *PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
-> - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic modality translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
+> - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
 > - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept]
 
@@ -47,11 +47,10 @@ The correlation established between the two modalities through this process can 
 
 3D medical images like MRI are typically acquired using 2D scanning protocols, resulting in high in-plane resolution yet compromised through-plane resolution.
 Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis. 
-Some techniques represent discrete images as continuous implicit functions, which can obtain feature representations at arbitrary locations for image reconstruction.
 
 > ## *MRI Super-resolution for Arbitrary Inter-slice Spacing Reduction*
 > - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary reduction of MR inter-slice spacing, which generates any desired in-between MR slice from hierarchical features of adjacent MR slices.
-> - We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) network, which represents an MR image as a continuous implicit function of 3D coordinates and performs arbitrary inter-slice spacing by sampling the coordinates in 3D space.
+> - We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) network, which represents an MR image as a continuous implicit function of 3D coordinates and performs arbitrary inter-slice spacing by sampling feature representations at arbitrary locations in 3D space.
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3" target="_blank">Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion</a> [MLMI'23]
 > - <a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a> [MedIA'24]
