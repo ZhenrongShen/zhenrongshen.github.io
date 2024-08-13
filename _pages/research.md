@@ -16,8 +16,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ### *Relevant Publications:*
 > - <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184152200336X" target="_blank">Image Synthesis with Disentangled Attributes for Chest X-ray Nodule Augmentation and Detection</a> [MedIA'23]
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-030-88010-1_45" target="_blank">Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection</a> [PRCV'21]
-
-![](/images/nodule_synthesis.png)
+> ![](/images/nodule_synthesis.png)
 
 > ## *Cervical Cytological Image Synthesis for Cervical Lesion Screening*
 > - We proposed CellGAN, a class-conditional GAN, to synthesize cervical cytological image patches of various cervical cell types, aimed at enhancing patch-level cervical cell classification. 
@@ -25,8 +24,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-43987-2_47" target="_blank">CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification</a> [MICCAI'23 Early Accept]
 > - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024003290" target="_blank">Distillation of Multi-class Cervical Lesion Cell Detection via Synthesis-aided Pre-training and Patch-level Feature Alignment</a> [Neural Networks'24]
-
-![](/images/cell_synthesis.png)
+> ![](/images/cell_synthesis.png)
 
 
 # Cross-Modality Medical Image Synthesis 
@@ -39,8 +37,7 @@ The correlation established between the two modalities can be also leveraged for
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
 > - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept]
-
-![](/images/metaAD.png)
+> ![](/images/metaAD.png)
 
 
 # Medical Image Super-Resolution
@@ -54,5 +51,4 @@ Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, there
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3" target="_blank">Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion</a> [MLMI'23]
 > - <a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a> [MedIA'24]
-
-![](/images/MRI_SR.png)
+> ![](/images/MRI_SR.png)
