@@ -101,3 +101,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
+> 
