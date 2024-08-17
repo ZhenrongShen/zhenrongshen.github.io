@@ -31,9 +31,13 @@ This not only facilitates the training of medical AI but also serves as a robust
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the unavailability of some imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
-The correlation established between the two modalities can be also leveraged for applications such as anomaly detection.
+The correlation established between different modalities can be also leveraged for other clinical and research purposes such as anomaly detection and PET attenuation correction.
 
-> ## *PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
+> ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
+> - We propose a two-stage framework that synthesizes <sup>11</sup>C-CFT PET images from real <sup>18</sup>F-FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
+> ![](/images/PET_synthesis.png)
+
+> ## *<sup>18</sup>F-FDG PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
 > - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept]
