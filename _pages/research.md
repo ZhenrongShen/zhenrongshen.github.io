@@ -53,10 +53,8 @@ The correlation established between different modalities can be also leveraged f
 3D medical images like MRI are typically acquired using 2D scanning protocols, resulting in high in-plane resolution yet compromised through-plane resolution.
 Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis. 
 
-> ## *MRI Super-resolution for Arbitrary Inter-slice Spacing Reduction*
+> ## *MR Image Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
 > - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary reduction of MR inter-slice spacing, which generates any desired in-between MR slice from hierarchical features of adjacent MR slices.
-> - We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) network, which represents an MR image as a continuous implicit function of 3D coordinates and performs arbitrary inter-slice spacing by sampling feature representations at arbitrary locations in 3D space.
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3" target="_blank">Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion</a> [MLMI'23]
-> - <a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a> [MedIA'24]
 > ![](/images/MRI_SR.png)
