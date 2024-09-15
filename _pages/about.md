@@ -17,6 +17,7 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 
 ## News
 
+- \[2024/09\] Our MICCAI 2024 paper **MetaAD** is selected as Oral 
 - \[2024/06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
 - \[2024/05\] 1 paper accepted by **_Neural Networks_**
 - \[2024/04\] 1 paper accepted by **_Medical Image Analysis_**

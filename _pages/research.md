@@ -33,15 +33,15 @@ Multi-modal medical imaging information is the cornerstone of precision medicine
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
 The correlation established between different modalities can be also leveraged for other clinical and research purposes such as anomaly detection and PET attenuation correction.
 
-> ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
-> - We propose a framework that synthesizes <sup>11</sup>C-CFT PET images from real <sup>18</sup>F-FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
-> ![](/images/PET_synthesis.png)
-
 > ## *<sup>18</sup>F-FDG PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
-> - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept]
+> - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept & Oral]
 > ![](/images/metaAD.png)
+
+<!-- > ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
+> - We propose a framework that synthesizes <sup>11</sup>C-CFT PET images from real <sup>18</sup>F-FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
+> ![](/images/PET_synthesis.png) -->
 
 > ## *Whole-body MR-to-CT Synthesis for PET Attenuation Correction*
 > - We propose a whole-body MR-to-CT synthesis framework that integrates structural guidance, spatial alignment, and semantic authenticity to enhance synthetic CT image quality, thus facilitating PET attenuation correction.
