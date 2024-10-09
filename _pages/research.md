@@ -36,7 +36,7 @@ The correlation established between different modalities can be also leveraged f
 > ## *<sup>18</sup>F-FDG PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
-> - <a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept & Oral & Best Paper Award Nomination]
+> - <a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept & Oral & Best Paper Award Nomination]
 > ![](/images/metaAD.png)
 
 <!-- > ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*

@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Computers in Biology and Medicine</em>, 2024 <br>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept & Oral & Best Paper Award Nomination)** <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept & Oral & Best Paper Award Nomination)** <br>
 > Haolin Huang\*, <b>Zhenrong Shen</b>\*, Jing Wang\*, Xinyu Wang, Jiaying Lu, Huamei Lin, Jingjie Ge, Chuantao Zuo, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Yan Kong\*, Sheng Wang\*, Jiangdong Cai, Zihao Zhao, <b>Zhenrong Shen</b>, Yonghao Li, Manman Fei, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
-> <b><a href="" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72120-5_57" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
 > Dongdong Chen, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
