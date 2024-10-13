@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2024
 ### Journal Papers
+> <b><a href="" target="_blank">Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</a></b> <br>
+> Dongdong Chen, Mengjun Liu, <b>Zhenrong Shen</b>, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2024 <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024003290" target="_blank">Distillation of Multi-class Cervical Lesion Cell Detection via Synthesis-aided Pre-training and Patch-level Feature Alignment</a></b> <br>
 > Manman Fei, <b>Zhenrong Shen</b>, Zhiyun Song, Xin Wang, Maosong Cao, Linlin Yao, Xiangyu Zhao, Qian Wang, Lichi Zhang. <br>
 > <em>Neural Networks</em>, 2024 <br>
