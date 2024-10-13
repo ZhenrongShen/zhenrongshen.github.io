@@ -18,7 +18,7 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 
 ## News
 
-- \[2024/10\] I received **Young Scientist Award** in MICCAI 2024 for our paper **MetaAD**
+- \[2024/10\] I win **Young Scientist Award** in MICCAI 2024 for our paper **MetaAD**
 - \[2024/09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award**
 - \[2024/09\] Our MICCAI 2024 paper **MetaAD** is selected as Oral 
 - \[2024/06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
