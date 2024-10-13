@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+### 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 - 6-10 October 2024, Marrakesh, Morocco
 - Oral presentation
 - Best Paper Award Candidate
@@ -15,7 +15,7 @@ author_profile: true
 ![](/images/MICCAI2024.jpg)
 
 
-### 10th Medical Image Computing Seminar (MICS)
+### 10th Medical Image Computing Seminar (MICS 2023)
 - 14-17 July 2023, Taiyuan, China
 - Shared an early accepted MICCAI 2023 paper in Student Academic Forum 
 - 2nd Prize in Student Academic Forum 
