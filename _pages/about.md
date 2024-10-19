@@ -37,6 +37,7 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 ## Activities
 
 - Journal Reviewer
+  - Medical Image Analysis
   - IEEE Transactions on Multimedia
   - Neural Networks
   - Computerized Medical Imaging and Graphics

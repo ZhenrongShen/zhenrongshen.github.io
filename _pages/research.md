@@ -31,7 +31,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the unavailability of some imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
-The correlation established between different modalities can be also leveraged for other clinical and research purposes such as anomaly detection and PET attenuation correction.
+The correlation established between different modalities can be also leveraged for other clinical and research purposes, such as anomaly detection and PET attenuation correction.
 
 > ## *<sup>18</sup>F-FDG PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
