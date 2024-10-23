@@ -19,7 +19,7 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 ## News
 
 - \[2024/10\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
-- \[2024/10\] I win **Young Scientist Award** in MICCAI 2024 for our paper **MetaAD**
+- \[2024/10\] I win [**Young Scientist Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) in MICCAI 2024 for our paper **MetaAD**
 - \[2024/09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award**
 - \[2024/09\] Our MICCAI 2024 paper **MetaAD** is selected as Oral 
 - \[2024/06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
@@ -59,6 +59,6 @@ I am passionate about pushing the boundaries of what is possible with AI4Medicin
 - \[2022/07\] 3rd Prize in Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
 - \[2020/12\] 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling
 - \[2020/06\]	Outstanding Graduate Award, BUAA
-- \[2020/07\] 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
+- \[2019/07\] 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
 -	\[2019/04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
 -	\[2018/04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
