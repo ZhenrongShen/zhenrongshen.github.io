@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Haolin Huang\*, <b>Zhenrong Shen</b>\*, Jing Wang\*, Xinyu Wang, Jiaying Lu, Huamei Lin, Jingjie Ge, Chuantao Zuo, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
-> <b><a href="https://arxiv.org/abs/2405.09463" target="_blank">Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening</a></b> [<a href="https://github.com/YanKong0408/Gaze-DETR" target="_blank">code</a>] **(Early Accept)** <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72083-3_13" target="_blank">Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening</a></b> [<a href="https://github.com/YanKong0408/Gaze-DETR" target="_blank">code</a>] **(Early Accept)** <br>
 > Yan Kong\*, Sheng Wang\*, Jiangdong Cai, Zihao Zhao, <b>Zhenrong Shen</b>, Yonghao Li, Manman Fei, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
@@ -43,7 +43,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Dongdong Chen, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
-> <b><a href="https://arxiv.org/abs/2311.08236" target="_blank">Melo: Low-rank Adaptation Is Better Than Fine-tuning for Medical Image Diagnosis</a></b> [<a href="https://absterzhu.github.io/melo.github.io/" target="_blank">project</a>] [<a href="https://github.com/JamesQFreeman/LoRA-ViT" target="_blank">code</a>] **(Oral)** <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10635615/" target="_blank">Melo: Low-rank Adaptation Is Better Than Fine-tuning for Medical Image Diagnosis</a></b> [<a href="https://absterzhu.github.io/melo.github.io/" target="_blank">project</a>] [<a href="https://github.com/JamesQFreeman/LoRA-ViT" target="_blank">code</a>] **(Oral)** <br>
 > Yitao Zhu, <b>Zhenrong Shen</b>, Zihao Zhao, Sheng Wang, Xin Wang, Xiangyu Zhao, Dinggang Shen, Qian Wang. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (ISBI 2024), Athens, Greece. <br>
 
@@ -99,6 +99,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprint
 > <b><a href="https://arxiv.org/abs/2402.14707" target="_blank">Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening</a></b> <br>
 > <b>Zhenrong Shen</b>\*, Manman Fei\*, Xin Wang, Jiangdong Cai, Sheng Wang, Lichi Zhang, Qian Wang. <br>
+
+> <b><a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
+> Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>

@@ -45,6 +45,8 @@ The correlation established between different modalities can be also leveraged f
 
 > ## *Whole-body MR-to-CT Synthesis for PET Attenuation Correction*
 > - We propose a whole-body MR-to-CT synthesis framework that integrates structural guidance, spatial alignment, and semantic authenticity to enhance synthetic CT image quality, thus facilitating PET attenuation correction.
+> ### *Relevant Publications:*
+> > - <a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a> 
 > ![](/images/whole_body_MR_to_CT.png)
 
 
