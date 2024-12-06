@@ -12,7 +12,7 @@ Before that, I received my B.Eng. degree from [School of Biological Science and 
 
 My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis.
 <!-- , for the sake of smart diagnosis and prognosis, individualized therapy planning and tracking, and translational medical studies. -->
-During My Ph.D. studies, I have been dedicated to the research of medical image synthesis, including but not limited to controllable lesion image synthesis, cross-modality image synthesis, and image super-resolution.
+During My Ph.D. studies, I have been dedicated to the research of medical image synthesis, including but not limited to controllable lesion data synthesis, cross-modality image synthesis, and image super-resolution.
 I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
 
 

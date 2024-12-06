@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Controllable Lesion Image Synthesis
+# Controllable Lesion Data Synthesis
 
 Scaling law is widely deemed as the cornerstone towards medical foundation models. However, the collection of sufficient training data, particularly those related to lesions, may remain an unattainable objective in clinical practice. 
 We utilize generative models to disentangle the attributes of lesions across the domains of radiology and pathology, thereby creating extensive and diverse annotated lesion data in a controllable manner.
@@ -18,7 +18,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-030-88010-1_45" target="_blank">Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection</a> [PRCV'21]
 > ![](/images/nodule_synthesis.png)
 
-> ## *Cervical Cytological Image Synthesis for Cervical Lesion Screening*
+> ## *Cervical Cytological Image Synthesis for Cervical Abnormality Screening*
 > - We proposed CellGAN, a class-conditional GAN, to synthesize cervical cytological image patches of various cervical cell types, aimed at enhancing patch-level cervical cell classification. 
 > - We incorporated CellGAN into a knowledge distillation framework for multi-class abnormal cervical cell detection, which facilitates the class-balance pre-training of a teacher network.
 > ### *Relevant Publications:*
