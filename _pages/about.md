@@ -18,6 +18,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 
 ## News
 
+- \[2024/12\] 1 paper accepted by **_Expert Systems with Applications_**
 - \[2024/10\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
 - \[2024/10\] I win [**Young Scientist Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) in MICCAI 2024 for our paper **MetaAD**
 - \[2024/09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award**

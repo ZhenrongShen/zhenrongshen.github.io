@@ -10,7 +10,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2024
 ### Journal Papers
-> <b><a href="" target="_blank">Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> <br>
+> Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
+> <em>Expert Systems with Applications</em>, 2024 <br>
+
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10735236" target="_blank">Exploring Multi-Connectivity and Subdivision Functions of Brain Network via Heterogeneous Graph Network for Cognitive Disorder Identification</a></b> <br>
 > Dongdong Chen, Mengjun Liu, <b>Zhenrong Shen</b>, Linlin Yao, Xiangyu Zhao, Zhiyun Song, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
 > <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2024 <br>
 
@@ -31,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Computers in Biology and Medicine</em>, 2024 <br>
 
 ### Conference Papers	
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept & Oral & Best Paper Award Nomination)** <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a></b> [<a href="https://github.com/MedAIerHHL/MetaAD" target="_blank">code</a>] **(Early Accept & Oral & Young Scientist Award)** <br>
 > Haolin Huang\*, <b>Zhenrong Shen</b>\*, Jing Wang\*, Xinyu Wang, Jiaying Lu, Huamei Lin, Jingjie Ge, Chuantao Zuo, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
@@ -65,7 +69,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43999-5_7" target="_blank">Alias-Free Co-modulated Network for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href=" https://github.com/zhiyuns/AFCM" target="_blank">code</a>] **(Early Accept)** <br>
 > Zhiyun Song, Xin Wang, Xiangyu Zhao, Sheng Wang, <b>Zhenrong Shen</b>, Zixu Zhuang, Mengjun Liu, Qian Wang, Lichi Zhang. <br>
-> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2023</b></i>, <i><b>early accepted</b></i>), Vancouver, Canada. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2023</b></i>), Vancouver, Canada. <br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-43987-2_63" target="_blank">Robust Cervical Abnormal Cell Detection via Distillation from Local-Scale Consistency Refinement</a></b> [<a href="https://github.com/feimanman/Cervical-Abnormal-Cell-Detection" target="_blank">code</a>] <br>
 > Manman Fei, Xin Zhang, Maosong Cao, <b>Zhenrong Shen</b>, Xiangyu Zhao, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
@@ -105,9 +109,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>
-
-> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> <br>
-> Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
 
 > <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
