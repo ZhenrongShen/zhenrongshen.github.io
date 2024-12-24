@@ -41,6 +41,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
   - Medical Image Analysis
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Multimedia
+  - IEEE Journal of Biomedical and Health Informatics
   - Neural Networks
   - Computerized Medical Imaging and Graphics
   - Medical & Biological Engineering & Computing
