@@ -18,6 +18,8 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 
 ## News
 
+- \[2025/01\] 1 paper accepted by **_IEEE Transactions on Medical Imaging_**
+- \[2025/01\] 1 paper accepted by **_ISBI 2025_**
 - \[2024/12\] 1 paper accepted by **_Expert Systems with Applications_**
 - \[2024/10\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
 - \[2024/10\] I win [**Young Scientist Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) in MICCAI 2024 for our paper **MetaAD**

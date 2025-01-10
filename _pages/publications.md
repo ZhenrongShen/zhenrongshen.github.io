@@ -8,6 +8,18 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=taDlSIMAAAAJ).
 
 
+## 2025
+### Journal Papers
+> <b><a href="" target="_blank">Improving Self-Supervised Medical Image Pre-Training by Early Alignment with Human Eye Gaze Information</a></b> <br>
+> Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
+> <em>IEEE Transactions on Medical Imaging</em>, 2025 <br>
+
+### Conference Papers	
+> <b><a href="" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
+> Yu Fang, Honglin Xiong, Jiawei Huang, Xin Wang, <b>Zhenrong Shen</b>, Feihong Liu, Xinyi Cai, Han Zhang, Qian Wang. <br>
+> <em>IEEE International Symposium on Biomedical Imaging</em> (ISBI 2025), Houston, USA. <br>
+
+
 ## 2024
 ### Journal Papers
 > <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> <br>
