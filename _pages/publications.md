@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>TMI</b></i>), 2025 <br>
 
-> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
 > Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
@@ -38,7 +38,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Manman Fei, <b>Zhenrong Shen</b>, Zhiyun Song, Xin Wang, Maosong Cao, Linlin Yao, Xiangyu Zhao, Qian Wang, Lichi Zhang. <br>
 > <em>Neural Networks</em>, 2024 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a></b> [<a href="https://github.com/JamesQFreeman/SA-INR" target="_blank">code</a>] <br>
 > Xin Wang\*, Sheng Wang\*, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, <b>Zhenrong Shen</b>, Xiangyu Zhao, Lichi Zhang, Qian Wang. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <br>
 
@@ -59,7 +59,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Yan Kong\*, Sheng Wang\*, Jiangdong Cai, Zihao Zhao, <b>Zhenrong Shen</b>, Yonghao Li, Manman Fei, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72120-5_57" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72120-5_57" target="_blank">Self-supervised Learning with Adaptive Graph Structure and Function Representation For Cross-Dataset Brain Disorder Diagnosis</a></b> [<a href="https://github.com/DongDChen/SSG-brain" target="_blank">code</a>] <br>
 > Dongdong Chen, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
