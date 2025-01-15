@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>Zhenrong Shen</b>\*, Jing Wang\*, Haolin Huang, Jiaying Lu, Jingjie Ge, Honglin Xiong, Ping Wu, Zizhao Ju, Huamei Lin, Yuhua Zhu, Yunhao Yang, Fengtao Liu, Yihui Guan, Kaicong Sun, Qian Wang, Chuantao Zuo. <br>
 > <em>European Journal of Nuclear Medicine and Molecular Imaging</em> (<i><b>EJNMMI</b></i>), 2025 <br>
 
-> <b><a href="" target="_blank">Improving Self-Supervised Medical Image Pre-Training by Early Alignment with Human Eye Gaze Information</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10839445" target="_blank">Improving Self-Supervised Medical Image Pre-Training by Early Alignment with Human Eye Gaze Information</a></b> <br>
 > Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>TMI</b></i>), 2025 <br>
 
