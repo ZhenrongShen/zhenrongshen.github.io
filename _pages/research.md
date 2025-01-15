@@ -39,9 +39,10 @@ The correlation established between different modalities can be also leveraged f
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept & Oral & Best Paper Award Nomination]
 > ![](/images/metaAD.png)
 
-<!-- > ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
-> - We propose a framework that synthesizes <sup>11</sup>C-CFT PET images from real <sup>18</sup>F-FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
-> ![](/images/PET_synthesis.png) -->
+> ## *\[<sup>18</sup>F\]FDG PET to \[<sup>11</sup>C\]CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
+> - We propose a framework that synthesizes \[<sup>11</sup>C\]CFT PET images from real \[<sup>18</sup>F\]FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
+> - <a href="" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a> [EJNMMI'25]
+> ![](/images/PET_synthesis.png)
 
 > ## *Whole-body MR-to-CT Synthesis for PET Attenuation Correction*
 > - We propose a whole-body MR-to-CT synthesis framework that integrates structural guidance, spatial alignment, and semantic authenticity to enhance synthetic CT image quality, thus facilitating PET attenuation correction.
