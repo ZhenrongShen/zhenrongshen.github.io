@@ -14,11 +14,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b>Zhenrong Shen</b>\*, Jing Wang\*, Haolin Huang, Jiaying Lu, Jingjie Ge, Honglin Xiong, Ping Wu, Zizhao Ju, Huamei Lin, Yuhua Zhu, Yunhao Yang, Fengtao Liu, Yihui Guan, Kaicong Sun, Qian Wang, Chuantao Zuo. <br>
 > <em>European Journal of Nuclear Medicine and Molecular Imaging</em> (<i><b>EJNMMI</b></i>), 2025 <br>
 
-> <b><a href="https://ieeexplore.ieee.org/document/10839445" target="_blank">Improving Self-Supervised Medical Image Pre-Training by Early Alignment with Human Eye Gaze Information</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10839445" target="_blank">Improving Self-Supervised Medical Image Pre-Training by Early Alignment with Human Eye Gaze Information</a></b> [<a href="https://github.com/zhaozh10/McGIP" target="_blank">code</a>] <br>
 > Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>TMI</b></i>), 2025 <br>
 
-> <b><a href="https://arxiv.org/abs/2311.08225" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S0957417424031087" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
 > Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
