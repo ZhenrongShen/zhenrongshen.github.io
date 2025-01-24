@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2025
 ### Journal Papers
-> <b><a href="" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a></b> [<a href="https://github.com/ZhenrongShen/FDG-to-CFT_PET_Synthesis" target="_blank">code</a>] <br>
+> <b><a href="https://link.springer.com/article/10.1007/s00259-025-07096-3" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a></b> [<a href="https://github.com/ZhenrongShen/FDG-to-CFT_PET_Synthesis" target="_blank">code</a>] <br>
 > <b>Zhenrong Shen</b>\*, Jing Wang\*, Haolin Huang, Jiaying Lu, Jingjie Ge, Honglin Xiong, Ping Wu, Zizhao Ju, Huamei Lin, Yuhua Zhu, Yunhao Yang, Fengtao Liu, Yihui Guan, Kaicong Sun, Qian Wang, Chuantao Zuo. <br>
 > <em>European Journal of Nuclear Medicine and Molecular Imaging</em> (<i><b>EJNMMI</b></i>), 2025 <br>
 
