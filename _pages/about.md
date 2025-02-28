@@ -17,6 +17,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 
 
 ## News
+- \[2025.02\] 1 paper accepted by **_CVPR 2025_**
 - \[2025.01\] 1 paper accepted by **_European Journal of Nuclear Medicine and Molecular Imaging_**
 - \[2025.01\] 1 paper accepted by **_IEEE Transactions on Medical Imaging_**
 - \[2025.01\] 1 paper accepted by **_ISBI 2025_**

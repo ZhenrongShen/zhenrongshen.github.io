@@ -23,9 +23,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
 ### Conference Papers	
+> <b><a href="" target="_blank">MITracker: Multi-View Integration for Visual Object Tracking</a></b> <br>
+> Mengjie Xu\*, Yitao Zhu\*, Haotian Jiang, Jiaming Li, <b>Zhenrong Shen</b>, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang. <br>
+> <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2025</b></i>), Nashville, USA. <br>
+
 > <b><a href="" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
 > Yu Fang, Honglin Xiong, Jiawei Huang, Xin Wang, <b>Zhenrong Shen</b>, Feihong Liu, Xinyi Cai, Han Zhang, Qian Wang. <br>
-> <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>MICCAI 2025</b></i>), Houston, USA. <br>
+> <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2025</b></i>), Houston, USA. <br>
 
 
 ## 2024
