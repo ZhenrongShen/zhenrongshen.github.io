@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
 ### Conference Papers	
-> <b><a href="" target="_blank">MITracker: Multi-View Integration for Visual Object Tracking</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2502.20111" target="_blank">MITracker: Multi-View Integration for Visual Object Tracking</a></b> [<a href="https://mii-laboratory.github.io/MITracker/" target="_blank">project</a>] [<a href="https://github.com/XuM007/MITracker" target="_blank">code</a>]<br>
 > Mengjie Xu\*, Yitao Zhu\*, Haotian Jiang, Jiaming Li, <b>Zhenrong Shen</b>, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang. <br>
 > <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2025</b></i>), Nashville, USA. <br>
 
