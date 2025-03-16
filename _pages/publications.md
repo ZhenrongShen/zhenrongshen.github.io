@@ -130,5 +130,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>
 
+> <b><a href="https://arxiv.org/abs/2503.06563" target="_blank">LSA: Latent Style Augmentation Towards Stain-Agnostic Cervical Cancer Screening</a></b> <br>
+> Jiangdong Cai\*, Haotian Jiang\*, <b>Zhenrong Shen</b>, Yonghao Li, Honglin Xiong, Lichi Zhang, Qian Wang. <br>
+
 > <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
