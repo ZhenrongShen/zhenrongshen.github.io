@@ -130,8 +130,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>
 
-> <b><a href="https://arxiv.org/abs/2503.06563" target="_blank">LSA: Latent Style Augmentation Towards Stain-Agnostic Cervical Cancer Screening</a></b> <br>
+> <b><a href="https://arxiv.org/pdf/2503.12399" target="_blank">Pathology Image Restoration via Mixture of Prompts</a></b> [<a href="https://github.com/caijd2000/MoP" target="_blank">code</a>] <br> 
+> Jiangdong Cai\*, Yan Chen\*, <b>Zhenrong Shen</b>, Haotian Jiang, Honglin Xiong, Kai Xuan, Lichi Zhang, Qian Wang. <br>
+
+> <b><a href="https://arxiv.org/abs/2503.06563" target="_blank">LSA: Latent Style Augmentation Towards Stain-Agnostic Cervical Cancer Screening</a></b> [<a href="https://github.com/caijd2000/LSA" target="_blank">code</a>] <br>
 > Jiangdong Cai\*, Haotian Jiang\*, <b>Zhenrong Shen</b>, Yonghao Li, Honglin Xiong, Lichi Zhang, Qian Wang. <br>
 
-> <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2309.00971" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> [<a href="https://github.com/hsiangyuzhao/AdLER" target="_blank">code</a>] <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
