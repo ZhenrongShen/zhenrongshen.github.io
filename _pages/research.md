@@ -8,7 +8,7 @@ author_profile: true
 # Controllable Lesion Data Synthesis
 
 Scaling law is widely deemed as the cornerstone towards medical foundation models. However, the collection of sufficient training data, particularly those related to lesions, may remain an unattainable objective in clinical practice. 
-We utilize generative models to disentangle the attributes of lesions across the domains of radiology and pathology, thereby creating extensive and diverse annotated lesion data in a controllable manner.
+We utilize generative models to disentangle lesion attributes across the domains of radiology and pathology, thereby creating extensive and diverse annotated lesion data in a controllable manner.
 This not only facilitates the training of medical AI but also serves as a robustness assessment benchmark, and potentially acts as a medical education tool.
 
 > ## *Chest X-ray Lung Nodule Synthesis for Lung Nodule Detection*
@@ -21,9 +21,11 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ## *Cervical Cytological Image Synthesis for Cervical Abnormality Screening*
 > - We proposed CellGAN, a class-conditional GAN, to synthesize cervical cytological image patches of various cervical cell types, aimed at enhancing patch-level cervical cell classification. 
 > - We incorporated CellGAN into a knowledge distillation framework for multi-class abnormal cervical cell detection, which facilitates the class-balance pre-training of a teacher network.
+> - We proposed a two-stage diffusion-based framework that hierarchically generates global cervical cytological image and local abnormal cervical cells for augmenting image-level abnormal cervical cell detection.
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-43987-2_47" target="_blank">CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification</a> [MICCAI'23 Early Accept]
 > - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024003290" target="_blank">Distillation of Multi-class Cervical Lesion Cell Detection via Synthesis-aided Pre-training and Patch-level Feature Alignment</a> [Neural Networks'24]
+> - <a href="https://arxiv.org/abs/2402.14707" target="_blank">Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening</a>
 > ![](/images/cell_synthesis.png)
 
 
@@ -58,7 +60,9 @@ The correlation established between different modalities can be also leveraged f
 Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis. 
 
 > ## *MR Image Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
-> - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary reduction of MR inter-slice spacing, which generates any desired in-between MR slice from hierarchical features of adjacent MR slices.
+> - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary MRI inter-slice spacing reduction, which generates any desired in-between MR slice from adjacent MR slices in the through-plane direction.
+>  We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) for arbitrary MRI inter-slice spacing reduction in any direction, which can reconstruct the MR image by continuously sampling the coordinates in 3D space.
 > ### *Relevant Publications:*
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-031-45673-2_3" target="_blank">Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion</a> [MLMI'23]
+> - <a href="https://www.sciencedirect.com/science/article/pii/S1361841524000835" target="_blank">Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing</a> [MedIA'24]
 > ![](/images/MRI_SR.png)
