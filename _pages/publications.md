@@ -67,6 +67,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Dongdong Chen, Linlin Yao, Mengjun Liu, <b>Zhenrong Shen</b>, Yuqi Hu, Zhiyun Song, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2024</b></i>), Marrakesh, Morocco. <br>
 
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10809033" target="_blank">Consistent 3D Medical Image Inpainting via Implicit Representation and Multi-View Sampling</a></b> <br>
+> Yuqi Hu, <b>Zhenrong Shen</b>, Zhiyun Song, Dongdong Chen, Liao Wang, Lichi Zhang. <br>
+> <em>IEEE International Conference on Information Communication and Signal Processing</em> (<i><b>ICICSP 2024</b></i>), Zhoushan, China. <br>
+
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10635615/" target="_blank">Melo: Low-rank Adaptation Is Better Than Fine-tuning for Medical Image Diagnosis</a></b> [<a href="https://absterzhu.github.io/melo.github.io/" target="_blank">project</a>] [<a href="https://github.com/JamesQFreeman/LoRA-ViT" target="_blank">code</a>] **(Oral)** <br>
 > Yitao Zhu, <b>Zhenrong Shen</b>, Zihao Zhao, Sheng Wang, Xin Wang, Xiangyu Zhao, Dinggang Shen, Qian Wang. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2024</b></i>), Athens, Greece. <br>
