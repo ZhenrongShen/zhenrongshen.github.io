@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2025
 ### Journal Papers
+> <b><a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
+> Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
+
 > <b><a href="https://link.springer.com/article/10.1007/s00259-025-07096-3" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a></b> [<a href="https://github.com/ZhenrongShen/FDG-to-CFT_PET_Synthesis" target="_blank">code</a>] <br>
 > <b>Zhenrong Shen</b>\*, Jing Wang\*, Haolin Huang, Jiaying Lu, Jingjie Ge, Honglin Xiong, Ping Wu, Zizhao Ju, Huamei Lin, Yuhua Zhu, Yunhao Yang, Fengtao Liu, Yihui Guan, Kaicong Sun, Qian Wang, Chuantao Zuo. <br>
 > <em>European Journal of Nuclear Medicine and Molecular Imaging</em> (<i><b>EJNMMI</b></i>), 2025 <br>
@@ -127,9 +131,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprint
 > <b><a href="https://arxiv.org/abs/2402.14707" target="_blank">Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening</a></b> <br>
 > <b>Zhenrong Shen</b>\*, Manman Fei\*, Xin Wang, Jiangdong Cai, Sheng Wang, Lichi Zhang, Qian Wang. <br>
-
-> <b><a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
-> Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>

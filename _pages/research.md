@@ -38,7 +38,7 @@ The correlation established between different modalities can be also leveraged f
 > ## *<sup>18</sup>F-FDG PET Anomaly Detection for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a Metabolism-aware Anomaly Detection (MetaAD) framework, which leverages a cyclic cross-modality image translation workflow to identify abnormal metabolism cues of PD in <sup>18</sup>F-FDG PET scans.
 > ### *Relevant Publications:*
-> - <a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24 Early Accept & Oral & Best Paper Award Nomination]
+> - <a href="https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28" target="_blank">MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET</a> [MICCAI'24, Young Scientist Award]
 > ![](/images/metaAD.png)
 
 > ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
@@ -48,9 +48,9 @@ The correlation established between different modalities can be also leveraged f
 > ![](/images/PET_synthesis.png)
 
 > ## *Whole-body MR-to-CT Synthesis for PET Attenuation Correction*
-> - We propose a whole-body MR-to-CT synthesis framework that integrates structural guidance, spatial alignment, and semantic authenticity to enhance synthetic CT image quality, thus facilitating PET attenuation correction.
+> - We propose a whole-body MR-to-CT synthesis framework that integrates structural guidance, spatial alignment, and semantic constraint to enhance synthetic CT image quality, thus facilitating PET attenuation correction in whole-body PET/MR imaging.
 > ### *Relevant Publications:*
-> - <a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a> 
+> - <a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a> [MedIA'25]
 > ![](/images/whole_body_MR_to_CT.png)
 
 
