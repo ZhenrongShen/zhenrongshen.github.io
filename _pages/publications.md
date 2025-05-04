@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2025
 ### Journal Papers
+> <b><a href="" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
+> Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
+> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
+
 > <b><a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
 > Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>

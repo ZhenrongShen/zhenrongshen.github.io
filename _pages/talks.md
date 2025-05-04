@@ -9,7 +9,7 @@ author_profile: true
 ### 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 - 6-10 October 2024, Marrakesh, Morocco
 - Oral presentation
-- Best Paper Award Candidate
+<!-- - Best Paper Award Candidate -->
 - [Young Scientist Award](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/)
 - Title: [MetaAD: Metabolism-Aware Anomaly Detection for Parkinson’s Disease in 3D <sup>18</sup>F-FDG PET](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_28)
 ![](/images/MICCAI2024.jpg)

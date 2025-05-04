@@ -18,6 +18,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 
 
 ## News
+- \[2025.05\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2025.04\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2025.02\] 1 paper accepted by **_CVPR 2025_**
 - \[2025.01\] 1 paper accepted by **_European Journal of Nuclear Medicine and Molecular Imaging_**
@@ -26,16 +27,16 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 - \[2024.12\] 1 paper accepted by **_Expert Systems with Applications_**
 - \[2024.10\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
 - \[2024.10\] I win [**Young Scientist Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) in MICCAI 2024 for our paper **MetaAD**
-- \[2024.09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award**
+<!-- - \[2024.09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award** -->
 - \[2024.09\] Our MICCAI 2024 paper **MetaAD** is selected as Oral 
-- \[2024.06\] 3 papers (2 early accepted) accepted by **_MICCAI 2024_** 
+- \[2024.06\] 3 papers (2 early accept) accepted by **_MICCAI 2024_** 
 - \[2024.05\] 1 paper accepted by **_Neural Networks_**
 - \[2024.04\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2024.02\] 1 paper accepeted by **_Computers in Biology and Medicine_**
-- \[2024.02\] 1 paper (oral presentation) accepted by **_ISBI 2024_**
+- \[2024.02\] 1 paper (Oral) accepted by **_ISBI 2024_**
 - \[2024.01\] 1 paper accepted by **_Computerized Medical Imaging and Graphics_**
 - \[2023.08\] 1 paper accepted by **_MLMI 2023_**
-- \[2023.06\] 6 papers (3 early accepted) accepted by **_MICCAI 2023_**
+- \[2023.06\] 6 papers (3 early accept) accepted by **_MICCAI 2023_**
 - \[2022.11\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2021.07\] 1 paper accepted by **_PRCV 2021_**
 
