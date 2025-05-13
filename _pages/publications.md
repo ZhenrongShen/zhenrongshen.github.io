@@ -10,12 +10,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2025
 ### Journal Papers
-> <b><a href="" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
-> Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841525001690?dgcid=author" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
+> Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
 
-> <b><a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
-> Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
+> <b><a href="" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
+> Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
 
 > <b><a href="https://link.springer.com/article/10.1007/s00259-025-07096-3" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a></b> [<a href="https://github.com/ZhenrongShen/FDG-to-CFT_PET_Synthesis" target="_blank">code</a>] <br>
