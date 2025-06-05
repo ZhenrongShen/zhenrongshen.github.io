@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I have completed Ph.D. in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
+I have completed my Ph.D. in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
 Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/).
 <!-- , where I worked with [Prof. Jicong Zhang (张冀聪)](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research. -->
 
 My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis.
 <!-- , for the sake of smart diagnosis and prognosis, individualized therapy planning and tracking, and translational medical studies. -->
-During My Ph.D. studies, I have been dedicated to the research on generative AI in medical image analysis, including but not limited to controllable lesion data synthesis, cross-modality image synthesis, and medical image super-resolution.
+During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including but not limited to controllable lesion data synthesis, cross-modality image synthesis, and medical image super-resolution.
 I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
 
 
