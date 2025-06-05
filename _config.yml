@@ -22,9 +22,9 @@ repository               : "ZhenrongShen/zhenrongshen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhenrong Shen (沈镇榕)"
+  name             : "Dr. Zhenrong Shen (沈镇榕)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate @ MIC Lab"
+  bio              : "Ph.D. | AI4Medicine"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
