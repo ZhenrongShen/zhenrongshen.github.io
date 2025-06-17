@@ -10,11 +10,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2025
 ### Journal Papers
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841525001690?dgcid=author" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841525001690" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
 > Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841525001823?dgcid=coauthor" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841525001823" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
 > Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
 
@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>TMI</b></i>), 2025 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S0957417424031087" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
+> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424031087" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
 > Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Mengjie Xu\*, Yitao Zhu\*, Haotian Jiang, Jiaming Li, <b>Zhenrong Shen</b>, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang. <br>
 > <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2025</b></i>), Nashville, USA. <br>
 
-> <b><a href="" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10981151" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
 > Yu Fang, Honglin Xiong, Jiawei Huang, Xin Wang, <b>Zhenrong Shen</b>, Feihong Liu, Xinyi Cai, Han Zhang, Qian Wang. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2025</b></i>), Houston, USA. <br>
 
@@ -138,6 +138,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 > <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>. <br>
+
+> <b><a href="https://arxiv.org/abs/2505.09178" target="_blank">UniCAD: Efficient and Extendable Architecture for Multi-Task Computer-Aided Diagnosis System</a></b> [<a href="https://mii-laboratory.github.io/UniCAD/" target="_blank">project</a>] <br> 
+> Yitao Zhu\*, Yuan Yin\*, <b>Zhenrong Shen</b>, Zihao Zhao, Haiyu Song, Sheng Wang, Dinggang Shen, Qian Wang. <br>
 
 > <b><a href="https://arxiv.org/pdf/2503.12399" target="_blank">Pathology Image Restoration via Mixture of Prompts</a></b> [<a href="https://github.com/caijd2000/MoP" target="_blank">code</a>] <br> 
 > Jiangdong Cai\*, Yan Chen\*, <b>Zhenrong Shen</b>, Haotian Jiang, Honglin Xiong, Kai Xuan, Lichi Zhang, Qian Wang. <br>
