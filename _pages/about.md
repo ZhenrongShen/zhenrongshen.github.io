@@ -18,8 +18,9 @@ My research interests lie in the interdisciplinary field of artificial intellige
 During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including but not limited to controllable lesion data synthesis, cross-modality image synthesis, and medical image super-resolution.
 I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
 
-I have published over 30 top journal and conference papers in AI & medical imaging field, e.g., MedIA, TMI, TNNLS, EJNMMI, CVPR, and MICCAI. 
+I have published over 30 top-tier journal and conference papers in AI & medical imaging field (e.g., MedIA, TMI, TNNLS, EJNMMI, CVPR, and MICCAI). 
 I received Yound Scientist Award in MICCAI 2024.
+For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.github.io/images/ZhenrongSHEN.pdf).
 
 
 ## News
@@ -46,35 +47,3 @@ I received Yound Scientist Award in MICCAI 2024.
 - \[2023.06\] 6 papers (3 early accept) accepted by **_MICCAI 2023_**
 - \[2022.11\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2021.07\] 1 paper accepted by **_PRCV 2021_**
-
-
-<!-- ## Honors & Awards
-
-- \[2024.10\] [Young Scientist Award](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/), MICCAI 2024
-- \[2023.12\] Academician Yazhu Chen Scholarship, School of Biomedical Engineering, SJTU
-- \[2023.07\] 2nd Prize in Student Academic Forum, 10th Medical Imaging Computing Seminar (MICS 2023)
-- \[2022.07\] 3rd Prize in Student Academic Forum, 9th Medical Imaging Computing Seminar (MICS 2022)
-- \[2020.12\] 2nd Prize, 17th China Post-graduate Mathematical Contest in Modeling
-- \[2020.06\]	Outstanding Graduate Award, BUAA
-- \[2019.07\] 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
--	\[2019.04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
--	\[2018.04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM) -->
-
-
-<!-- ## Activities
-
-- Journal Reviewer
-  - Medical Image Analysis
-  - IEEE Transactions on Neural Networks and Learning Systems
-  - IEEE Transactions on Multimedia
-  - IEEE Journal of Biomedical and Health Informatics
-  - Neural Networks
-  - Computerized Medical Imaging and Graphics
-  - Medical & Biological Engineering & Computing
-
-- Conference Reviewer
-  - Medical Image Computing and Computer Assisted Interventions (MICCAI)
-  - IEEE International Symposium on Biomedical Imaging (ISBI)
-
-- Teaching Assistant
-  - \[2024 Spring\] Computer Vision in Biomedical Engineering (SJTU BME7001) -->
