@@ -18,6 +18,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 
 
 ## News
+- \[2025.06\] 5 papers (3 early accept) accepted by **_MICCAI 2025_** 
 - \[2025.05\] I passed my Ph.D. oral defense and became a Dr.
 - \[2025.05\] 1 paper accepted by **_Medical Image Analysis_**
 - \[2025.04\] 1 paper accepted by **_Medical Image Analysis_**
