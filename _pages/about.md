@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<p style="color: red;"> I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you! </p>
+
 I have completed my Ph.D. in [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
 Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/).
 <!-- , where I worked with [Prof. Jicong Zhang (张冀聪)](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research. -->
@@ -15,6 +17,9 @@ My research interests lie in the interdisciplinary field of artificial intellige
 <!-- , for the sake of smart diagnosis and prognosis, individualized therapy planning and tracking, and translational medical studies. -->
 During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including but not limited to controllable lesion data synthesis, cross-modality image synthesis, and medical image super-resolution.
 I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
+
+I have published over 30 top journal and conference papers in AI & medical imaging field, e.g., MedIA, TMI, TNNLS, EJNMMI, CVPR, and MICCAI. 
+I received Yound Scientist Award in MICCAI 2024.
 
 
 ## News
@@ -43,7 +48,7 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 - \[2021.07\] 1 paper accepted by **_PRCV 2021_**
 
 
-## Honors & Awards
+<!-- ## Honors & Awards
 
 - \[2024.10\] [Young Scientist Award](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/), MICCAI 2024
 - \[2023.12\] Academician Yazhu Chen Scholarship, School of Biomedical Engineering, SJTU
@@ -53,10 +58,10 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
 - \[2020.06\]	Outstanding Graduate Award, BUAA
 - \[2019.07\] 1st Prize, 5th National Biomedical Engineering Innovation Design Competition for College Students
 -	\[2019.04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
--	\[2018.04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM)
+-	\[2018.04\] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM) -->
 
 
-## Activities
+<!-- ## Activities
 
 - Journal Reviewer
   - Medical Image Analysis
@@ -72,4 +77,4 @@ I am passionate about pushing the boundaries of what is possible with **AI4Medic
   - IEEE International Symposium on Biomedical Imaging (ISBI)
 
 - Teaching Assistant
-  - \[2024 Spring\] Computer Vision in Biomedical Engineering (SJTU BME7001)
+  - \[2024 Spring\] Computer Vision in Biomedical Engineering (SJTU BME7001) -->
