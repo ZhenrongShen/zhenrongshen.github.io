@@ -8,8 +8,10 @@ author_profile: true
 # Controllable Lesion Data Synthesis
 
 Scaling law is widely deemed as the cornerstone towards medical foundation models. However, the collection of sufficient training data, particularly those related to lesions, may remain an unattainable objective in clinical practice. 
-We utilize generative models to disentangle lesion attributes across the domains of radiology and pathology, thereby creating extensive and diverse annotated lesion data in a controllable manner.
+We utilize generative models to disentangle lesion attributes and create diverse annotated lesion data in a controllable manner.
 This not only facilitates the training of medical AI but also serves as a robustness assessment benchmark, and potentially acts as a medical education tool.
+
+<!-- across the domains of radiology and pathology, -->
 
 > ## *Chest X-ray Lung Nodule Synthesis for Lung Nodule Detection*
 > - We proposed a lung nodule synthesis framework disentangles nodule attributes (i.e., shape, size, and texture) and synthesize nodules in a controllable manner. We leveraged the controllability of the framework to design a hard example mining strategy for data augmentation on lung nodule detection.
@@ -29,7 +31,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ![](/images/cell_synthesis.png)
 
 
-# Cross-Modality Medical Image Synthesis 
+# Cross-Modality Image Synthesis 
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the unavailability of some imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
