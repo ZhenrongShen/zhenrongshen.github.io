@@ -23,6 +23,7 @@ author_profile: true
 
 ## Journal Reviewer
 - Medical Image Analysis
+- IEEE Transactions on Medical Imaging
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Multimedia
 - IEEE Journal of Biomedical and Health Informatics
