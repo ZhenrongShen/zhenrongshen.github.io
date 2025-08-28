@@ -31,9 +31,9 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ![](/images/cell_synthesis.png)
 
 
-# Cross-Modality Image Synthesis 
+# Cross-Modality Medical Image Synthesis 
 
-Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the unavailability of some imaging modalities in clinical practice.
+Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the limited availability of certain imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
 The correlation established between different modalities can be also leveraged for other clinical and research purposes, such as anomaly detection and PET attenuation correction.
 
@@ -56,12 +56,14 @@ The correlation established between different modalities can be also leveraged f
 > ![](/images/whole_body_MR_to_CT.png)
 
 
-# Medical Image Super-Resolution
+# Medical Image Quality Enhancement
+Low-resolution or degraded medical images can potentially compromise diagnostic accuracy and clinical decision-making. 
+We leverage image super-resolution or image restoration methods to improve image fidelity and structural details for medical image quality enhancement, which aims to increase the clinical utility and improve the reliability of diagnostic outcomes.
 
-3D medical images like MRI are typically acquired using 2D scanning protocols, resulting in high in-plane resolution yet compromised through-plane resolution.
-Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis. 
+<!-- 3D medical images like MRI are typically acquired using 2D scanning protocols, resulting in high in-plane resolution yet compromised through-plane resolution.
+Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis.  -->
 
-> ## *MR Image Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
+> ## *MRI Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
 > - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary MRI inter-slice spacing reduction, which generates any desired in-between MR slice from adjacent MR slices in the through-plane direction.
 > - We proposed Spatial Attention-based Implicit Neural Representation (SA-INR) for arbitrary MRI inter-slice spacing reduction in any direction, which can reconstruct the MR image by continuously sampling the coordinates in 3D space.
 > ### *Relevant Publications:*
