@@ -26,6 +26,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Sheng Wang\*, Zihao Zhao\*, <b>Zhenrong Shen</b>, Bin Wang, Qian Wang, Dinggang Shen. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>TMI</b></i>), 2025 <br>
 
+> <b><a href="" target="_blank">A Deep Learning Framework for Synthesizing Longitudinal Infant Brain MRI During Early Development</a></b> <br>
+> Yu Fang\*, Honglin Xiong\*, Jiawei Huang, Feihong Liu, <b>Zhenrong Shen</b>, Xinyi Cai, Han Zhang, Qian Wang. <br>
+> <em>Radiology: Artificial Intelligence</em> (<i><b>RYAI</b></i>), 2025. <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424031087" target="_blank">Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images</a></b> [<a href="https://github.com/zhiyuns/UniCOAL" target="_blank">code</a>] <br>
 > Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
@@ -56,7 +60,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2025</b></i>), Nashville, USA. <br>
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10981151" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
-> Yu Fang, Honglin Xiong, Jiawei Huang, Xin Wang, <b>Zhenrong Shen</b>, Feihong Liu, Xinyi Cai, Han Zhang, Qian Wang. <br>
+> Yu Fang\*, Honglin Xiong\*, Jiawei Huang, Xin Wang, <b>Zhenrong Shen</b>, Feihong Liu, Xinyi Cai, Han Zhang, Qian Wang. <br>
 > <em>IEEE International Symposium on Biomedical Imaging</em> (<i><b>ISBI 2025</b></i>), Houston, USA. <br>
 
 
