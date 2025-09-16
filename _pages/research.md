@@ -14,7 +14,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 <!-- across the domains of radiology and pathology, -->
 
 > ## *Chest X-ray Lung Nodule Synthesis for Lung Nodule Detection*
-> - We proposed a lung nodule synthesis framework disentangles nodule attributes (i.e., shape, size, and texture) and synthesize nodules in a controllable manner. We leveraged the controllability of the framework to design a hard example mining strategy for data augmentation on lung nodule detection.
+> - We proposed a lung nodule synthesis framework that disentangles nodule attributes (i.e., shape, size, and texture) and synthesize nodules in a controllable manner. We leveraged the controllability of the framework to design a hard example mining strategy for data augmentation on lung nodule detection.
 > ### *Relevant Publications:*
 > - <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184152200336X" target="_blank">Image Synthesis with Disentangled Attributes for Chest X-ray Nodule Augmentation and Detection</a> [MedIA'23]
 > - <a href="https://link.springer.com/chapter/10.1007/978-3-030-88010-1_45" target="_blank">Nodule Synthesis and Selection for Augmenting Chest X-ray Nodule Detection</a> [PRCV'21]
