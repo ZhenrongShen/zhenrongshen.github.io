@@ -14,7 +14,7 @@ Before that, I received my B.Eng. degree from [School of Biological Science and 
 <!-- , where I worked with [Prof. Jicong Zhang (张冀聪)](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research. -->
 
 My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis.
-During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including controllable lesion data synthesis, cross-modality image synthesis, and image quality enhancement.
+During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including controllable lesion data synthesis, cross-modality image synthesis, and medical image quality enhancement.
 I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
 
 I have published over 30 top-tier journal and conference papers in AI & medical imaging field (e.g., MedIA, TMI, TNNLS, EJNMMI, CVPR, and MICCAI). 
@@ -35,7 +35,6 @@ For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.gith
 - \[2024.12\] 1 paper accepted by **_Expert Systems with Applications_**
 - \[2024.10\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
 - \[2024.10\] I win [**Young Scientist Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) in MICCAI 2024 for our paper **MetaAD**
-<!-- - \[2024.09\] Our MICCAI 2024 paper **MetaAD** has been nominated and shortlisted for **Best Paper Award** -->
 - \[2024.09\] Our MICCAI 2024 paper **MetaAD** is selected as Oral 
 - \[2024.06\] 3 papers (2 early accept) accepted by **_MICCAI 2024_** 
 - \[2024.05\] 1 paper accepted by **_Neural Networks_**
