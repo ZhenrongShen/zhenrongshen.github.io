@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color: red;"> I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you! </p>
+<!-- <p style="color: red;"> I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you! </p> -->
 
 I received my Ph.D. from [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
 Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/).
