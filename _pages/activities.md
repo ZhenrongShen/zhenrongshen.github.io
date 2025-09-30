@@ -28,6 +28,7 @@ author_profile: true
 - IEEE Transactions on Multimedia
 - IEEE Journal of Biomedical and Health Informatics
 - Information Fusion
+- Pattern Recognition
 - Neural Networks
 - Computerized Medical Imaging and Graphics
 - Medical & Biological Engineering & Computing
