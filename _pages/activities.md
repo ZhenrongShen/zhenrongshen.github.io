@@ -30,6 +30,7 @@ author_profile: true
 - Information Fusion
 - Pattern Recognition
 - Neural Networks
+- NeuroImage
 - Computerized Medical Imaging and Graphics
 - Medical & Biological Engineering & Computing
 
