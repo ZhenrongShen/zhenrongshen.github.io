@@ -18,6 +18,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
 
+> <b><a href="" target="_blank">Towards a Unified Foundation Model for Cervical Abnormality Screening</a></b> <br>
+> Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang,Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang, Qian Wang. <br>
+> <em>Cell Reports Medicine</em>, 2025 <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841525001823" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
 > Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
