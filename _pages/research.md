@@ -46,7 +46,7 @@ The correlation established between different modalities can be also leveraged f
 > ## *<sup>18</sup>F-FDG PET to <sup>11</sup>C-CFT PET synthesis for Parkinson’s Disease (PD) Diagnosis*
 > - We propose a two-stage framework that synthesizes <sup>11</sup>C-CFT PET images from real <sup>18</sup>F-FDG PET scans for automatic PD diagnosis, which was based on the correlation between dopaminergic deficiency in the striatum and increased glucose metabolism in PD patients.
 > ### *Relevant Publications:*
-> - <a href="https://link.springer.com/article/10.1007/s00259-025-07096-3" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT Using Deep Learning</a> [EJNMMI'25]
+> - <a href="https://link.springer.com/article/10.1007/s00259-025-07096-3" target="_blank">Cross-Modality PET Image Synthesis for Parkinson's Disease Diagnosis: A Leap from \[<sup>18</sup>F\]FDG to \[<sup>11</sup>C\]CFT</a> [EJNMMI'25]
 > ![](/images/PET_synthesis.png)
 
 > ## *Whole-body MR-to-CT Synthesis for PET Attenuation Correction*
