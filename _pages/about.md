@@ -24,7 +24,7 @@ For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.gith
 
 ## News
 - \[2026.01\] 1 paper accepted by **_Expert Systems With Applications_**
-- \[2025.11\] 1 paper accepted by **_Cell Reports Medicine_**
+- \[2025.12\] 1 paper accepted by **_Cell Reports Medicine_**
 - \[2025.08\] 1 paper accepted by **_Radiology: Artificial Intelligence_**
 - \[2025.06\] 5 papers (3 early accept) accepted by **_MICCAI 2025_** 
 - \[2025.05\] I passed my Ph.D. oral defense and became a Dr.
