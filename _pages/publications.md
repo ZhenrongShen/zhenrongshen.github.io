@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2026
 ### Journal Papers
+> <b><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00643-3" target="_blank">UniCAS: A foundation model for cervical cytology screening</a></b> [<a href="https://github.com/peter-fei/UniCAS" target="_blank">code</a>] <br>
+> Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang, Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang, Qian Wang. <br>
+> <em>Cell Reports Medicine</em>, 2026 <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0957417426001387?dgcid=coauthor" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> [<a href="https://github.com/hsiangyuzhao/AdLER" target="_blank">code</a>] <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2026 <br>
@@ -24,10 +28,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841525001690" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a></b> <br>
 > Jiaxu Zheng\*, <b>Zhenrong Shen</b>\*, Lichi Zhang, Qun Chen. <br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2025 <br>
-
-> <b><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00643-3" target="_blank">UniCAS: A foundation model for cervical cytology screening</a></b> [<a href="https://github.com/peter-fei/UniCAS" target="_blank">code</a>] <br>
-> Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang, Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang, Qian Wang. <br>
-> <em>Cell Reports Medicine</em>, 2025 <br>
 
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841525001823" target="_blank">Learning Contrast and Content Representations for Synthesizing Magnetic Resonance Image of Arbitrary Contrast</a></b> <br>
 > Honglin Xiong, Yulin Wang, <b>Zhenrong Shen</b>, Kaicong Sun, Yu Fang, Yan Chen, Dinggang Shen, Qian Wang. <br>
@@ -46,7 +46,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2025 <br>
 
 ### Conference Papers	
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_49" target="_blank">Refining Cervical Cell Classification with Cytological Knowledge and Optimal Attribute Descriptor Matching</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_49" target="_blank">Refining Cervical Cell Classification with Cytological Knowledge and Optimal Attribute Descriptor Matching</a></b> [<a href="https://github.com/feimanman/CervicalCellClassifier" target="_blank">code</a>] <br>
 > Manman Fei, <b>Zhenrong Shen</b>, Mengjun Liu, Zhiyun Song, Yusong Sun, Xu Han, Zelin Liu, Haotian Jiang, Lu Bai, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
@@ -54,7 +54,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Manman Fei, Zhiyun Song, <b>Zhenrong Shen</b>, Mengjun Liu, Qian Wang, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40" target="_blank">Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing</a></b> **(Early Accept)** <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05169-1_40" target="_blank">Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing</a></b> [<a href="https://github.com/ZAC0713/Multi-Tracer-PET-Uptake-Correction" target="_blank">code</a>] **(Early Accept)** <br>
 > Aocheng Zhong\*, Haolin Huang\*, Jing Wang\*, <b>Zhenrong Shen</b>, Haiyu Song, Yuhua Zhu, Yang Liu, Junlei Wu, Qian Wang, Chuantao Zuo. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
@@ -62,7 +62,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Haotian Jiang\*, Haolin Huang\*, Jiangdong Cai, <b>Zhenrong Shen</b>, Manman Fei, Mengjie Xu, Xinyu Wang, Lichi Zhang, Qian Wang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05325-1_46" target="_blank">RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis</a></b> **(Early Accept)** <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05325-1_46" target="_blank">RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis</a></b> [<a href="https://github.com/kylin1112/RSAD" target="_blank">code</a>] **(Early Accept)** <br>
 > Yusong Sun, Dongdong Chen, Mengjun Liu, <b>Zhenrong Shen</b>, Zhiyun Song, Yuqi Hu, Manman Fei, Xu Han, Zelin Liu, Xingkai Fang, Lu Bai, Lichi Zhang. <br>
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
