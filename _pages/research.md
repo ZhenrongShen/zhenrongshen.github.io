@@ -31,7 +31,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ![](/images/cell_synthesis.png)
 
 
-# Cross-Modality Medical Image Synthesis 
+# Cross-modality Medical Image Synthesis 
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the limited availability of certain imaging modalities in clinical practice.
 Cross-modality image synthesis can impute target modality images from source modality images, which serves as a beneficial tool in multi-modal studies. 
