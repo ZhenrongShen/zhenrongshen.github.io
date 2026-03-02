@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2026
 ### Journal Papers
-> <b><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00643-3" target="_blank">6.	UniCAS: A Foundation Model for Cervical Cytology Screening</a></b> [<a href="https://github.com/peter-fei/UniCAS" target="_blank">code</a>] <br>
+> <b><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00643-3" target="_blank">UniCAS: A Foundation Model for Cervical Cytology Screening</a></b> [<a href="https://github.com/peter-fei/UniCAS" target="_blank">code</a>] <br>
 > Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang, Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang, Qian Wang. <br>
 > <em>Cell Reports Medicine</em>, 2026 <br>
 
