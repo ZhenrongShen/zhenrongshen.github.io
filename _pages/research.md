@@ -59,9 +59,14 @@ The correlation established between different modalities can be also leveraged f
 # Medical Image Quality Enhancement
 Low-quality medical images can potentially compromise diagnostic accuracy and clinical decision-making. 
 We leverage image super-resolution or image restoration methods to improve image fidelity and structural details for medical image quality enhancement, which aims to increase the clinical utility and improve the reliability of diagnostic outcomes.
-
 <!-- 3D medical images like MRI are typically acquired using 2D scanning protocols, resulting in high in-plane resolution yet compromised through-plane resolution.
 Super-resolution can reduce the inter-slice spacing of 2D scanned volumes, thereby facilitating downstream visualization and computer-aided diagnosis.  -->
+
+> ## *MRI Motion Artifact Correction*
+> - We proposed FLEX-MoCo, a flexible MRI motion correction pipeline that effectively identifies motion artifact patterns and dynamically adapts its correction strategy based on both motion location and severity.
+> ### *Relevant Publications:*
+> - <a href="" target="_blank">FLEX-MoCo: Flexible MRI Motion Correction Using Motion Recognition and Adaptive Routing</a> [PR'26]
+> ![](/images/MRI_MoCo.png)
 
 > ## *MRI Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
 > - We proposed Hierarchical Feature Conditional Diffusion (HiFi-Diff) for arbitrary MRI inter-slice spacing reduction, which generates any desired in-between MR slice from adjacent MR slices in the through-plane direction.

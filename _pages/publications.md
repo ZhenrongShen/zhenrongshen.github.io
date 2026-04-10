@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2026
 ### Journal Papers
+> <b><a href="" target="_blank">FLEX-MoCo: Flexible MRI Motion Correction Using Motion Recognition and Adaptive Routing</a></b> <br>
+> Feng Li\*, <b>Zhenrong Shen</b>\*, Jiangdong Cai, Rongrong Xie, Zijian Zhou, Han Zhang, Dinggang Shen, Feng Shi, Qian Wang. <br>
+> <em>Pattern Recognition</em> (<i><b>PR</b></i>), 2026 <br>
+
 > <b><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00643-3" target="_blank">UniCAS: A Foundation Model for Cervical Cytology Screening</a></b> [<a href="https://github.com/peter-fei/UniCAS" target="_blank">code</a>] <br>
 > Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang, Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang, Qian Wang. <br>
 > <em>Cell Reports Medicine</em>, 2026 <br>
@@ -17,6 +21,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0957417426001387?dgcid=coauthor" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> [<a href="https://github.com/hsiangyuzhao/AdLER" target="_blank">code</a>] <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2026 <br>
+
+> <b><a href="https://onlinelibrary.wiley.com/doi/10.1002/ird3.70061" target="_blank">Unleashing the Potential of Generalist Segmentation Foundation Models for Biomedical Images and Video Analysis</a></b> [<a href="https://github.com/YichiZhang98/SAM4MIS" target="_blank">paper list</a>] <br>
+> Yichi Zhang, <b>Zhenrong Shen</b>, Lanlan Li, Wenbo Zhang, Le Xue. <br>
+> <em>iRADIOLOGY</em>, 2026 <br>
 
 
 ## 2025
@@ -170,9 +178,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprint
 > <b><a href="https://arxiv.org/abs/2402.14707" target="_blank">Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening</a></b> <br>
 > <b>Zhenrong Shen</b>\*, Manman Fei\*, Xin Wang, Jiangdong Cai, Sheng Wang, Lichi Zhang, Qian Wang. <br>
-
-> <b><a href="https://arxiv.org/abs/2408.12889" target="_blank">Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey</a></b> [<a href="https://github.com/YichiZhang98/SAM4MIS" target="_blank">paper list</a>] <br>
-> Yichi Zhang, <b>Zhenrong Shen</b>. <br>
 
 > <b><a href="https://arxiv.org/abs/2505.09178" target="_blank">UniCAD: Efficient and Extendable Architecture for Multi-Task Computer-Aided Diagnosis System</a></b> [<a href="https://mii-laboratory.github.io/UniCAD/" target="_blank">project</a>] <br> 
 > Yitao Zhu\*, Yuan Yin\*, <b>Zhenrong Shen</b>, Zihao Zhao, Haiyu Song, Sheng Wang, Dinggang Shen, Qian Wang. <br>

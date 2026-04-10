@@ -23,6 +23,7 @@ For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.gith
 
 
 ## News
+- \[2026.04\] 1 paper accepted by **_Pattern Recognition_**
 - \[2026.01\] 1 paper accepted by **_Expert Systems With Applications_**
 - \[2025.12\] 1 paper accepted by **_Cell Reports Medicine_**
 - \[2025.08\] 1 paper accepted by **_Radiology: Artificial Intelligence_**
