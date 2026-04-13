@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+---
 # Controllable Lesion Data Synthesis
 
 Scaling law is widely deemed as the cornerstone towards medical foundation models. However, the collection of sufficient training data, particularly those related to lesions, may remain an unattainable objective in clinical practice. 
@@ -31,6 +32,7 @@ This not only facilitates the training of medical AI but also serves as a robust
 > ![](/images/cell_synthesis.png)
 
 
+---
 # Cross-modality Medical Image Synthesis 
 
 Multi-modal medical imaging information is the cornerstone of precision medicine, yet a common challenge is the limited availability of certain imaging modalities in clinical practice.
@@ -55,7 +57,7 @@ The correlation established between different modalities can be also leveraged f
 > - <a href="https://arxiv.org/abs/2411.17488" target="_blank">Structure-Guided MR-to-CT Synthesis with Spatial and Semantic Alignments for Attenuation Correction of Whole-Body PET/MR Imaging</a> [MedIA'25]
 > ![](/images/whole_body_MR_to_CT.png)
 
-
+---
 # Medical Image Quality Enhancement
 Low-quality medical images can potentially compromise diagnostic accuracy and clinical decision-making. 
 We leverage image super-resolution or image restoration methods to improve image fidelity and structural details for medical image quality enhancement, which aims to increase the clinical utility and improve the reliability of diagnostic outcomes.
