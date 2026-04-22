@@ -9,17 +9,17 @@ redirect_from:
 
 <!-- <p style="color: red;"> I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you! </p> -->
 
-I received my Ph.D. from [School of Biomedical Engineering](https://en.bme.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervison of [Prof. Qian Wang (王乾)](https://qianwang.space/) at [Medical Imaging Computing Lab (MIC Lab)](https://mic.sjtu.edu.cn/).
-Before that, I received my B.Eng. degree from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/English/Default.aspx) at [Beihang University (BUAA)](https://ev.buaa.edu.cn/).
-<!-- , where I worked with [Prof. Jicong Zhang (张冀聪)](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research. -->
+I am a Postdoctoral Research Associate affiliated with the group of [Prof. Alejandro F. Frangi](https://affrangi.github.io/) at the [University of Manchester](https://www.manchester.ac.uk/), working in the field of **Multi-modal Generative AI for Virtual Patient Populations in In-silico Trials**.
 
-My research interests lie in the interdisciplinary field of artificial intelligence and medical image analysis.
-During My Ph.D., I have been dedicated to the research on generative AI in medical image analysis, including controllable lesion data synthesis, cross-modality image synthesis, and medical image quality enhancement.
-I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis.
+I received my Ph.D. degree in Biomedical Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Qian Wang](https://qianwang.space/).
+My doctoral research focused on generative AI in medical image analysis, including controllable lesion data synthesis, cross-modality image synthesis, and medical image quality enhancement.
+Prior to that, I received my B.Eng. degree in Biomedical Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I worked with [Prof. Jicong Zhang](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research.
 
-I have published over 30 top-tier journal and conference papers in AI & medical imaging field (e.g., MedIA, TMI, TNNLS, EJNMMI, CVPR, and MICCAI). 
-I received Yound Scientist Award in MICCAI 2024.
+I have published over 30 top journal and conference papers in the interdisciplinary field of AI and medicine (e.g., MedIA, IEEE TMI, EJNMMI, CVPR, and MICCAI). 
+I have received Yound Scientist Award in MICCAI 2024.
 For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.github.io/images/ZhenrongSHEN.pdf).
+
+<!-- I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis. -->
 
 
 ## News

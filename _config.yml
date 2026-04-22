@@ -22,11 +22,11 @@ repository               : "ZhenrongShen/zhenrongshen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Zhenrong Shen (沈镇榕)"
+  name             : "Dr.Zhenrong Shen (沈镇榕)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. | AI4Medicine"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "Postdoc | AI4Medicine"
+  location         : "Manchester, UK"
+  employer         : "University of Manchester"
   uri              : # URL
   email            : "zhenrongshen98@gmail.com" 
 
