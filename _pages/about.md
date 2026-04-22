@@ -16,7 +16,7 @@ My doctoral research focused on generative AI in medical image analysis, includi
 Prior to that, I received my B.Eng. degree in Biomedical Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I worked with [Prof. Jicong Zhang](https://shi.buaa.edu.cn/zhangjicong/zh_CNen/index.htm) for undergraduate research.
 
 I have published over 30 top journal and conference papers in the interdisciplinary field of AI and medicine (e.g., MedIA, IEEE TMI, EJNMMI, CVPR, and MICCAI). 
-I have received Yound Scientist Award in MICCAI 2024.
+I have received Young Scientist Award in MICCAI 2024.
 For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.github.io/images/ZhenrongSHEN.pdf).
 
 <!-- I am passionate about pushing the boundaries of what is possible with **AI4Medicine**, believing that generative AI will reshape the landscape of medical imaging and medical image analysis. -->
