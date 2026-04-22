@@ -75,7 +75,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2025</b></i>), Daejeon, Republic of Korea. <br>
 
 > <b><a href="https://arxiv.org/abs/2502.20111" target="_blank">MITracker: Multi-View Integration for Visual Object Tracking</a></b> [<a href="https://mii-laboratory.github.io/MITracker/" target="_blank">project</a>] [<a href="https://github.com/XuM007/MITracker" target="_blank">code</a>] **(Highligted)** <br>
-> Mengjie Xu\*, Yitao Zhu\*, Haotian Jiang, Jiaming Li, <b>Zhenrong Shen</b>, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang. <br>
+> Mengjie Xu\*, Yitao Zhu\*, Haotian Jiang, Jiaming Li, <b>Zhenrong Shen</b>, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang\#. <br>
 > <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> (<i><b>CVPR 2025</b></i>), Nashville, USA. <br>
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10981151" target="_blank">Longitudinal Image Synthesis for Early Brain Development with Age Awareness</a></b> <br>
