@@ -65,7 +65,7 @@ We leverage image restoration or image super-resolution methods to improve image
 > ## *Adaptive MRI Motion Artifact Correction*
 > - We proposed FLEX-MoCo, a flexible MRI motion correction pipeline that effectively identifies motion artifact patterns and dynamically adapts its correction strategy based on both motion location and severity.
 > ### *Relevant Publications:*
-> - <a href="" target="_blank">FLEX-MoCo: Flexible MRI Motion Correction Using Motion Recognition and Adaptive Routing</a> [PR'26]
+> - <a href="https://www.sciencedirect.com/science/article/pii/S0031320326006643?dgcid=coauthor" target="_blank">FLEX-MoCo: Flexible MRI Motion Correction Using Motion Recognition and Adaptive Routing</a> [PR'26]
 > ![](/images/MRI_MoCo.png)
 
 > ## *MRI Super-resolution for Arbitrary Inter-Slice Spacing Reduction*
