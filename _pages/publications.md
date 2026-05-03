@@ -18,6 +18,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Haotian Jiang\*, Jiangdong Cai\*, <b>Zhenrong Shen</b>, Mengjie Xu, Manman Fei, Haolin Huang, Xinyu Wang, Rui Bi, Dinggang Shen, Lichi Zhang\#, Qian Wang\#. <br>
 > <em>Cell Reports Medicine</em>, 2026 <br>
 
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1566253526003064" target="_blank">UFFL: Bridging Slide- and Cell-Level Annotations via Unified Feature Fusion Learning for Cervical Cancer Screening</a></b> <br>
+> Manman Fei, Zhiyun Song, <b>Zhenrong Shen</b>, Mengjun Liu, Qian Wang, Lichi Zhang\#. <br>
+> <em>Information Fusion</em>, 2026 <br>
+
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S0957417426001387?dgcid=coauthor" target="_blank">AdLER: Adversarial Training with Label Error Rectification for One-Shot Medical Image Segmentation</a></b> [<a href="https://github.com/hsiangyuzhao/AdLER" target="_blank">code</a>] <br>
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang\#. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2026 <br>
