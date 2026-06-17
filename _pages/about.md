@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- <p style="color: red;"> I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you! </p> -->
 
-I am a Postdoctoral Research Associate affiliated with the group of [Prof. Alejandro F. Frangi](https://affrangi.github.io/) at the [University of Manchester](https://www.manchester.ac.uk/), working in the field of **Multi-modal Generative AI for Virtual Patient Populations in In-silico Trials**.
+I am a Postdoctoral Research Associate affiliated with the group of [Prof. Alejandro F. Frangi](https://affrangi.github.io/) at [The University of Manchester](https://www.manchester.ac.uk/), working in the field of **Multi-modal Generative AI for Virtual Patient Populations in In-silico Trials**.
 
 I received my Ph.D. degree in Biomedical Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Qian Wang](https://qianwang.space/).
 My doctoral research focused on generative AI in medical image analysis, including controllable lesion data synthesis, cross-modality image synthesis, and medical image quality enhancement.
@@ -23,6 +23,7 @@ For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.gith
 
 
 ## News
+- \[2026.06\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
 - \[2026.04\] 1 paper accepted by **_Information Fusion_**
 - \[2026.04\] 1 paper accepted by **_Pattern Recognition_**
 - \[2026.01\] 1 paper accepted by **_Expert Systems With Applications_**

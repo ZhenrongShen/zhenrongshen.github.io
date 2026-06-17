@@ -26,6 +26,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Xiangyu Zhao, Sheng Wang, Zhiyun Song, <b>Zhenrong Shen</b>, Linlin Yao, Haolei Yuan, Qian Wang, Lichi Zhang\#. <br>
 > <em>Expert Systems with Applications</em> (<i><b>ESWA</b></i>), 2026 <br>
 
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/11559110" target="_blank">Enhancing Generative Models for Modality Imputation of 3-D MRIs via Consistency-Aware Refinement and Super-Resolution Guidance</a></b> <br>
+> Zhiyun Song, Xin Wang, Honglin Xiong, Mengjun Liu, Manman Fei, Xiangyu Zhao, <b>Zhenrong Shen</b>, Sheng Wang, Dongdong Chen, Linlin Yao, Qian Wang, Lichi Zhang\#. <br>
+> <em>IEEE Transactions on Neural Networks and Learning Systems</em> (<i><b>TNNLS</b></i>), 2026 <br>
+
 > <b><a href="https://onlinelibrary.wiley.com/doi/10.1002/ird3.70061" target="_blank">Unleashing the Potential of Generalist Segmentation Foundation Models for Biomedical Images and Video Analysis</a></b> [<a href="https://github.com/YichiZhang98/SAM4MIS" target="_blank">paper list</a>] <br>
 > Yichi Zhang, <b>Zhenrong Shen</b>, Lanlan Li, Wenbo Zhang, Le Xue\#. <br>
 > <em>iRADIOLOGY</em>, 2026 <br>
