@@ -34,6 +34,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 > Yichi Zhang, <b>Zhenrong Shen</b>, Lanlan Li, Wenbo Zhang, Le Xue\#. <br>
 > <em>iRADIOLOGY</em>, 2026 <br>
 
+### Conference Papers	
+> <b><a href="https://papers.miccai.org/miccai-2026/paper/3396_paper.pdf" target="_blank">TracerAD: Training-Free Few-Shot 3D Anomaly Detection for Novel PET Tracers</a></b> [<a href="https://github.com/MedAIerHHL/TracerAD" target="_blank">code</a>] <br>
+> Haolin Huang\*, Junlei Wu1\*, Jiaying Lu, <b>Zhenrong Shen</b>, Xinyu Wang, Chuantao Zuo, Qian Wang\#. <br>
+> <em>International Conference on Medical Image Computing and Computer Assisted Intervention</em> (<i><b>MICCAI 2026</b></i>), Strausberg, France. <br>
+
 
 ## 2025
 ### Journal Papers

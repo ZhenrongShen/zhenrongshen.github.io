@@ -23,7 +23,8 @@ For more details, please refer to my [Curriculum Vitae](http://zhenrongshen.gith
 
 
 ## News
-- \[2026.06\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning Systems_**
+- \[2026.06\] 1 paper accepted by **_IEEE Transactions on Neural Networks and Learning System
+- \[2026.05\] 1 paper early accepted by **_MICCAI 2026_**
 - \[2026.04\] 1 paper accepted by **_Information Fusion_**
 - \[2026.04\] 1 paper accepted by **_Pattern Recognition_**
 - \[2026.01\] 1 paper accepted by **_Expert Systems With Applications_**
